@@ -4,6 +4,7 @@
     <li><a href="index.php?id=6126f02a04fd9f001b419450">Canada</a></li>
     <li><a href="index.php?id=61437e8999eb9a001b941e9e">Germany</a></li>
     <li><a href="index.php?id=65652ae82d58f70008baaa76">USA</a></li>
+    <li><a href="login.php">Login</a></li>
   </ul>
 </nav>
 <hr>

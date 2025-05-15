@@ -24,6 +24,8 @@
 </head>
 <body>
 
+<?php include 'menu.php'; ?>
+
 <h1>OpenSenseMap Explorer</h1>
 <p>Click a marker to view sensor data</p>
 <div id="mainMap"></div>
